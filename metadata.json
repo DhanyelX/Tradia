@@ -1,0 +1,7 @@
+{
+  "name": "Tradia",
+  "description": "An MVP for trade journaling and optimization with AI-powered feedback. Log trades, analyze performance across accounts, and receive AI-driven insights to improve your trading strategy.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
